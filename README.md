@@ -1,10 +1,10 @@
 Hi there! 👋 I'm Sai Sukheshwar Boganadula
 
-🚀 Passionate Computer Engineer | AI & Computer Vision Enthusiast | Lifelong Learner
+🚀 Passionate Computer Engineer | AI, Computer Vision & Fintech Enthusiast | Lifelong Learner
 
 🌟 About Me
 
-I'm an M.Sc. Computer Engineering student at Blekinge Institute of Technology, with a deep passion for Artificial Intelligence, Machine Learning, Cybersecurity, and Software Engineering. My enthusiasm for technology fuels my drive to create scalable, intelligent, and secure systems. I thrive on solving complex problems, optimizing performance, and continuously learning cutting-edge technologies.
+I'm an M.Sc. in Computer Engineering student at Blekinge Institute of Technology. I have a deep passion for Artificial Intelligence, Machine Learning, Cybersecurity, and Software Engineering. My enthusiasm for technology fuels my drive to create scalable, intelligent, and secure systems. I thrive on solving complex problems, optimizing performance, and continuously learning cutting-edge technologies.
 
 📌 Currently, I'm working on a phishing detection project leveraging URL analysis for cybersecurity enhancements.
 
@@ -68,7 +68,7 @@ Software Engineering: Object-Oriented Programming (OOP), Design Patterns, Agile 
 
 🌐 Let's Connect
 
-📍 GitHub: github.com/yourusername📍 LinkedIn: linkedin.com/in/yourname📍 Email: your.email@example.com
+📍 GitHub: github.com/yourusername📍 LinkedIn: linkedin.com/in/sukheshwar-boganadula📍 Email: sukhesh.boganadula@gmail.com
 
 💡 Always looking for exciting opportunities in AI, Cybersecurity, and Software Engineering! Let's collaborate and innovate together!
 
