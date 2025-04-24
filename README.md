@@ -68,7 +68,7 @@ Software Engineering: Object-Oriented Programming (OOP), Design Patterns, Agile 
 
 🌐 Let's Connect
 
-📍 GitHub: github.com/yourusername📍 LinkedIn: linkedin.com/in/sukheshwar-boganadula📍 Email: sukhesh.boganadula@gmail.com
+📍 GitHub: https://github.com/SaiSBoganadula📍 LinkedIn: linkedin.com/in/sukheshwar-boganadula📍 Email: sukhesh.boganadula@gmail.com
 
-💡 Always looking for exciting opportunities in AI, Cybersecurity, and Software Engineering! Let's collaborate and innovate together!
+💡 Always looking for exciting AI, Cybersecurity, and Software Engineering opportunities! Let's collaborate and innovate together!
 
